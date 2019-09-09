@@ -1,0 +1,20 @@
+
+---------------------------------------------------------
+Dataset: constellation
+Parameters: populationSize=40, tournamentSize=20 
+Result: 360047
+---------------------------------------------------------
+Dataset: forever_alone 
+Parameters: populationSize=40, tournamentSize=20 
+Result: 60032
+---------------------------------------------------------
+Dataset: “overlap” 
+Parameters: populationSize=40, tournamentSize=10 
+Result: 59565
+---------------------------------------------------------
+Dataset: weekend 
+Parameters: populationSize=20, tournamentSize=10
+Result: 357970
+---------------------------------------------------------
+
+
