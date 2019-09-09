@@ -1,0 +1,12 @@
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\bin\Debug\GeneticAlgorithmMasterThesis.exe.config
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\bin\Debug\GeneticAlgorithmMasterThesis.exe
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\bin\Debug\GeneticAlgorithmMasterThesis.pdb
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\bin\Debug\DeepCloner.dll
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\bin\Debug\DeepCloner.xml
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.Form1.resources
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.Properties.Resources.resources
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.csproj.GenerateResource.cache
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.csproj.CoreCompileInputs.cache
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.csproj.CopyComplete
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.exe
+C:\Users\Kreshnik Ramadani\Desktop\Master thesis\GeneticAlgorithmMasterThesis\GeneticAlgorithmMasterThesis\obj\Debug\GeneticAlgorithmMasterThesis.pdb
